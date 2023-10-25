@@ -14,9 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-
-![](./images/desktop-design.jpg)
-
+![desktop-design](https://github.com/nishakp3005/CSS-cards/assets/121110503/af2c421d-b15e-4524-aced-8b63f02acd3f)
 
 ### Links
 
