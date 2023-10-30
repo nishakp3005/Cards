@@ -27,8 +27,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Desktop design -->
 
+![desktop-design](https://github.com/nishakp3005/CSS-cards/assets/121110503/b3c7ad97-9105-4b95-84ac-6678a01b6f4c)
+
 Mobile design -->
 
+![mobile-design](https://github.com/nishakp3005/CSS-cards/assets/121110503/bb7917ca-7a77-4990-b494-53957997e73a)
 
 ### Links
 
