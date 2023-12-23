@@ -28,6 +28,7 @@ Desktop design -->
 ![desktop-design](https://github.com/nishakp3005/CSS-cards/assets/121110503/0cf504f7-e62b-44ce-80d3-93d75e73f774)
 
 Mobile design -->
+
 ![mobile-design](https://github.com/nishakp3005/CSS-cards/assets/121110503/619fdf28-b3f7-4720-b328-655b3c78d440)
 
 ### Links
