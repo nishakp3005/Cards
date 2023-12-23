@@ -26,11 +26,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 Desktop design -->
 
-![desktop-design]()
 
 Mobile design -->
 
-![mobile-design]()
 
 ### Links
 
