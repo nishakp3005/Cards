@@ -24,6 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop Design
+![desktop-design](https://github.com/nishakp3005/Cards/assets/121110503/ff52810b-5697-4374-a9fc-c8b7ad418447)
+
+Mobile Design
+![mobile-design](https://github.com/nishakp3005/Cards/assets/121110503/d0a52a7a-6edc-4fba-b484-3f432e3a7058)
+
 ### Links
 
 -   Solution URL: [click here](https://github.com/nishakp3005/Cards/tree/main/faq-accordion-main)
