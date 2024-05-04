@@ -13,5 +13,5 @@ Welcome to the showcase of my frontend mentor cards project! In this project, I'
 |---|---|
 | [QR-code-component-main](https://nishakp3005.github.io/Cards/QR-code-component-main/) | [product-preview-card-component-main](https://nishakp3005.github.io/Cards/product-preview-card-component-main/) |
 
-##Learning 
+## Learning 
 I acquired the skill of creating responsive designs. 
