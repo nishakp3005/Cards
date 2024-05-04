@@ -33,8 +33,8 @@ Mobile design -->
 
 ### Links
 
-- [Solution URL](https://github.com/nishakp3005/CSS-cards/tree/main/results-summary-component-main)
-- [Live Site URL](https://nishakp3005.github.io/CSS-cards/results-summary-component-main/)
+- [Solution URL](https://github.com/nishakp3005/Cards/tree/main/results-summary-component-main)
+- [Live Site URL](https://nishakp3005.github.io/Cards/results-summary-component-main/)
 
 ## My process
 
