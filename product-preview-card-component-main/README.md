@@ -35,8 +35,8 @@ Mobile design -->
 
 ### Links
 
-- [Solution URL](https://github.com/nishakp3005/CSS-cards/tree/main/product-preview-card-component-main)
-- [Live Site URL](https://nishakp3005.github.io/CSS-cards/product-preview-card-component-main/)
+- [Solution URL](https://github.com/nishakp3005/Cards/tree/main/product-preview-card-component-main)
+- [Live Site URL](https://nishakp3005.github.io/Cards/product-preview-card-component-main/)
 
 ## My process
 
